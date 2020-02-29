@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 public class CarService {
 
     String matricula = "";
-    String color = "";
+    String color = "rojo";
     int anio = 1986;
     String modelo;
 
