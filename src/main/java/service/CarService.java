@@ -15,6 +15,7 @@ public class CarService {
     int anio = 1986;
     String modelo;
     String rama;
+    String var1;
 
     public String getModelo(int anio) {
         if (anio > 1950) {
