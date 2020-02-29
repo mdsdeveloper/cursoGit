@@ -14,6 +14,7 @@ public class CarService {
     String color = "naranja";
     int anio = 1986;
     String modelo;
+    String ramaUno;
 
     public String getModelo(int anio) {
         if (anio > 1950) {
