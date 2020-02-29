@@ -24,5 +24,9 @@ public class CarService {
         return modelo;
     }
 
+    public void calcularColor(){
+        String color;
+    }
+
 
 }
